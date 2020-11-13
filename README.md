@@ -1,2 +1,2 @@
 # UARTTest
-Web Serial Test
+Web Serial Test, for Espruino PICO
